@@ -1,0 +1,12 @@
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\bin\Debug\netcoreapp3.1\LVQ.exe
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\bin\Debug\netcoreapp3.1\LVQ.deps.json
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\bin\Debug\netcoreapp3.1\LVQ.runtimeconfig.json
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\bin\Debug\netcoreapp3.1\LVQ.runtimeconfig.dev.json
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\bin\Debug\netcoreapp3.1\LVQ.dll
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\bin\Debug\netcoreapp3.1\LVQ.pdb
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\obj\Debug\netcoreapp3.1\LVQ.csprojAssemblyReference.cache
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\obj\Debug\netcoreapp3.1\LVQ.AssemblyInfoInputs.cache
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\obj\Debug\netcoreapp3.1\LVQ.AssemblyInfo.cs
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\obj\Debug\netcoreapp3.1\LVQ.dll
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\obj\Debug\netcoreapp3.1\LVQ.pdb
+C:\Users\Berra\Desktop\Deep Learning\lvq hw\LVQ\LVQ\obj\Debug\netcoreapp3.1\LVQ.genruntimeconfig.cache
